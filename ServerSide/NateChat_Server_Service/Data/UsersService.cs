@@ -12,6 +12,7 @@ namespace NateChat_Server_Service
     {
         public void DoWork()
         {
+
         }
     }
 }

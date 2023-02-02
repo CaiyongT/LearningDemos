@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NateChat_Server_Models.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -11,7 +12,19 @@ namespace NateChat_Server_Service
     [ServiceContract]
     public interface IUsersService
     {
+        /// <summary>
+        /// 用户登录
+        /// </summary>
+        /// <param name="users"></param>
+        /// <returns></returns>
         [OperationContract]
-        void DoWork();
+        Users Login(Users users);//这里是以http协议操作数据库，所以可以带返回值。Tcp协议不能带返回值
+        /// <summary>
+        /// 用户注册
+        /// </summary>
+        /// <param name="users"></param>
+        /// <returns></returns>
+        [OperationContract]
+        Users Register(Users users);//这里是以http协议操作数据库，所以可以带返回值。Tcp协议不能带返回值
     }
 }
