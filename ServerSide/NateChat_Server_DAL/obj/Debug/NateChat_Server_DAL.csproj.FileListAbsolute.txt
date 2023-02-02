@@ -1,0 +1,11 @@
+H:\C#2023\ChatRoom\NateChat_Server_DAL\bin\Debug\NateChat_Server_DAL.dll
+H:\C#2023\ChatRoom\NateChat_Server_DAL\bin\Debug\NateChat_Server_DAL.pdb
+H:\C#2023\ChatRoom\NateChat_Server_DAL\bin\Debug\NateChat_Server_Common.dll
+H:\C#2023\ChatRoom\NateChat_Server_DAL\bin\Debug\NateChat_Server_Models.dll
+H:\C#2023\ChatRoom\NateChat_Server_DAL\bin\Debug\NateChat_Server_Common.pdb
+H:\C#2023\ChatRoom\NateChat_Server_DAL\bin\Debug\NateChat_Server_Models.pdb
+H:\C#2023\ChatRoom\NateChat_Server_DAL\obj\Debug\NateChat_Server_DAL.csproj.AssemblyReference.cache
+H:\C#2023\ChatRoom\NateChat_Server_DAL\obj\Debug\NateChat_Server_DAL.csproj.CoreCompileInputs.cache
+H:\C#2023\ChatRoom\NateChat_Server_DAL\obj\Debug\NateChat_Server_DAL.csproj.CopyComplete
+H:\C#2023\ChatRoom\NateChat_Server_DAL\obj\Debug\NateChat_Server_DAL.dll
+H:\C#2023\ChatRoom\NateChat_Server_DAL\obj\Debug\NateChat_Server_DAL.pdb

@@ -1,0 +1,14 @@
+H:\C#2023\ChatRoom\NateChat_Server_Service\bin\Debug\NateChat_Server_Service.dll.config
+H:\C#2023\ChatRoom\NateChat_Server_Service\bin\Debug\NateChat_Server_Service.dll
+H:\C#2023\ChatRoom\NateChat_Server_Service\bin\Debug\NateChat_Server_Service.pdb
+H:\C#2023\ChatRoom\NateChat_Server_Service\bin\Debug\NateChat_Server_BLL.dll
+H:\C#2023\ChatRoom\NateChat_Server_Service\bin\Debug\NateChat_Server_Common.dll
+H:\C#2023\ChatRoom\NateChat_Server_Service\bin\Debug\NateChat_Server_Models.dll
+H:\C#2023\ChatRoom\NateChat_Server_Service\bin\Debug\NateChat_Server_BLL.pdb
+H:\C#2023\ChatRoom\NateChat_Server_Service\bin\Debug\NateChat_Server_Common.pdb
+H:\C#2023\ChatRoom\NateChat_Server_Service\bin\Debug\NateChat_Server_Models.pdb
+H:\C#2023\ChatRoom\NateChat_Server_Service\obj\Debug\NateChat_Server_Service.csproj.AssemblyReference.cache
+H:\C#2023\ChatRoom\NateChat_Server_Service\obj\Debug\NateChat_Server_Service.csproj.CoreCompileInputs.cache
+H:\C#2023\ChatRoom\NateChat_Server_Service\obj\Debug\NateChat_Server_Service.csproj.CopyComplete
+H:\C#2023\ChatRoom\NateChat_Server_Service\obj\Debug\NateChat_Server_Service.dll
+H:\C#2023\ChatRoom\NateChat_Server_Service\obj\Debug\NateChat_Server_Service.pdb

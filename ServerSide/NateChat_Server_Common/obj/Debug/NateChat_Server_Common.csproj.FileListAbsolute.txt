@@ -1,0 +1,6 @@
+H:\C#2023\ChatRoom\NateChat_Server_Common\bin\Debug\NateChat_Server_Common.dll
+H:\C#2023\ChatRoom\NateChat_Server_Common\bin\Debug\NateChat_Server_Common.pdb
+H:\C#2023\ChatRoom\NateChat_Server_Common\obj\Debug\NateChat_Server_Common.csproj.AssemblyReference.cache
+H:\C#2023\ChatRoom\NateChat_Server_Common\obj\Debug\NateChat_Server_Common.csproj.CoreCompileInputs.cache
+H:\C#2023\ChatRoom\NateChat_Server_Common\obj\Debug\NateChat_Server_Common.dll
+H:\C#2023\ChatRoom\NateChat_Server_Common\obj\Debug\NateChat_Server_Common.pdb
