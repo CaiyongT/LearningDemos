@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -78,6 +79,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\NateChat_Server_BLL\NateChat_Server_BLL.csproj">
+      <Project>{dc9cd41b-1522-428f-8626-530d8b6d5cdd}</Project>
+      <Name>NateChat_Server_BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NateChat_Server_Common\NateChat_Server_Common.csproj">
+      <Project>{3284ea6b-7dd8-49a7-aecf-f12e824a1501}</Project>
+      <Name>NateChat_Server_Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NateChat_Server_Models\NateChat_Server_Models.csproj">
+      <Project>{04e4e6f6-7932-46ad-b6b4-f9efd7451c87}</Project>
+      <Name>NateChat_Server_Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NateChat_Server_Service\NateChat_Server_Service.csproj">
+      <Project>{8194816f-bb82-4ad1-a36b-72d2edf41a08}</Project>
+      <Name>NateChat_Server_Service</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

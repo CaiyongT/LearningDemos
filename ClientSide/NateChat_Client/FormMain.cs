@@ -16,5 +16,10 @@ namespace NateChat_Client
         {
             InitializeComponent();
         }
+
+        private void FormMain_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

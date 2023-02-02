@@ -37,6 +37,7 @@
             this.ClientSize = new System.Drawing.Size(399, 794);
             this.Name = "FormMain";
             this.Text = "NateChat_Main";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormMain_FormClosing);
             this.ResumeLayout(false);
 
         }

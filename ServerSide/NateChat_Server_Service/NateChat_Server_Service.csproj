@@ -53,9 +53,6 @@
     <Compile Include="Data\UsersService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\NateChat_Server_BLL\NateChat_Server_BLL.csproj">
       <Project>{dc9cd41b-1522-428f-8626-530d8b6d5cdd}</Project>
       <Name>NateChat_Server_BLL</Name>

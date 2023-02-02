@@ -36,37 +36,43 @@
             // 
             // btn_Open
             // 
-            this.btn_Open.Location = new System.Drawing.Point(224, 178);
+            this.btn_Open.Font = new System.Drawing.Font("宋体", 16F);
+            this.btn_Open.Location = new System.Drawing.Point(258, 178);
             this.btn_Open.Name = "btn_Open";
             this.btn_Open.Size = new System.Drawing.Size(115, 48);
             this.btn_Open.TabIndex = 0;
             this.btn_Open.Text = "启动服务";
             this.btn_Open.UseVisualStyleBackColor = true;
+            this.btn_Open.Click += new System.EventHandler(this.btn_Open_Click);
             // 
             // btn_Stop
             // 
-            this.btn_Stop.Location = new System.Drawing.Point(419, 178);
+            this.btn_Stop.Font = new System.Drawing.Font("宋体", 16F);
+            this.btn_Stop.Location = new System.Drawing.Point(427, 178);
             this.btn_Stop.Name = "btn_Stop";
             this.btn_Stop.Size = new System.Drawing.Size(115, 48);
             this.btn_Stop.TabIndex = 1;
             this.btn_Stop.Text = "关闭服务";
             this.btn_Stop.UseVisualStyleBackColor = true;
+            this.btn_Stop.Click += new System.EventHandler(this.btn_Stop_Click);
             // 
             // lbl_State_Index
             // 
             this.lbl_State_Index.AutoSize = true;
-            this.lbl_State_Index.Location = new System.Drawing.Point(288, 292);
+            this.lbl_State_Index.Font = new System.Drawing.Font("宋体", 16F);
+            this.lbl_State_Index.Location = new System.Drawing.Point(254, 255);
             this.lbl_State_Index.Name = "lbl_State_Index";
-            this.lbl_State_Index.Size = new System.Drawing.Size(89, 12);
+            this.lbl_State_Index.Size = new System.Drawing.Size(164, 22);
             this.lbl_State_Index.TabIndex = 2;
             this.lbl_State_Index.Text = "当前服务状态：";
             // 
             // lbl_State
             // 
             this.lbl_State.AutoSize = true;
-            this.lbl_State.Location = new System.Drawing.Point(399, 292);
+            this.lbl_State.Font = new System.Drawing.Font("宋体", 16F);
+            this.lbl_State.Location = new System.Drawing.Point(488, 255);
             this.lbl_State.Name = "lbl_State";
-            this.lbl_State.Size = new System.Drawing.Size(29, 12);
+            this.lbl_State.Size = new System.Drawing.Size(54, 22);
             this.lbl_State.TabIndex = 2;
             this.lbl_State.Text = "状态";
             // 

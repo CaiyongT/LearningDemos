@@ -25,6 +25,13 @@ namespace NateChat_Server_Service
         /// <param name="users"></param>
         /// <returns></returns>
         [OperationContract]
-        Users Register(Users users);//这里是以http协议操作数据库，所以可以带返回值。Tcp协议不能带返回值
+        Users Register(Users users);
+        /// <summary>
+        /// 根据登录人账号编号获取好友列表
+        /// </summary>
+        /// <param name="users"></param>
+        /// <returns></returns>
+        [OperationContract]
+        List<Users> GetFriendsByUserId(Users users);
     }
 }

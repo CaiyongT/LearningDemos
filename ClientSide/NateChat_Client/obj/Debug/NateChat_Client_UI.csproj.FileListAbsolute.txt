@@ -1,0 +1,12 @@
+H:\C#2023\Chat\ClientSide\NateChat_Client\bin\Debug\NateChat_Client.exe.config
+H:\C#2023\Chat\ClientSide\NateChat_Client\bin\Debug\NateChat_Client.exe
+H:\C#2023\Chat\ClientSide\NateChat_Client\bin\Debug\NateChat_Client.pdb
+H:\C#2023\Chat\ClientSide\NateChat_Client\obj\Debug\NateChat_Client_UI.csproj.AssemblyReference.cache
+H:\C#2023\Chat\ClientSide\NateChat_Client\obj\Debug\NateChat_Client_UI.csproj.SuggestedBindingRedirects.cache
+H:\C#2023\Chat\ClientSide\NateChat_Client\obj\Debug\NateChat_Client.FormMain.resources
+H:\C#2023\Chat\ClientSide\NateChat_Client\obj\Debug\NateChat_Client.LoginForm.resources
+H:\C#2023\Chat\ClientSide\NateChat_Client\obj\Debug\NateChat_Client.Properties.Resources.resources
+H:\C#2023\Chat\ClientSide\NateChat_Client\obj\Debug\NateChat_Client_UI.csproj.GenerateResource.cache
+H:\C#2023\Chat\ClientSide\NateChat_Client\obj\Debug\NateChat_Client_UI.csproj.CoreCompileInputs.cache
+H:\C#2023\Chat\ClientSide\NateChat_Client\obj\Debug\NateChat_Client.exe
+H:\C#2023\Chat\ClientSide\NateChat_Client\obj\Debug\NateChat_Client.pdb
